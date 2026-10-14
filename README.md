@@ -21,7 +21,7 @@ Heart Attack Analysis & Prediction Dataset.
 ## Team Members
 
 - Adarsha V
-- [Teammate Name]
+- Preethi
 
 ## Project Structure
 
